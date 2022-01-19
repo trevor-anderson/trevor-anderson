@@ -1,17 +1,19 @@
-<!-- PROJECT HEADER -->
+<!-- HEADER -->
 
 <div align="center" style="max-width: 100%; display: flex; flex-direction: column;">
-  <p align="center">Hi 👋 I'm Trevor Anderson</p>
-  <h1>Founder of <a href="https://github.com/Nerdware-LLC" >Nerdware</a></h3>
+  <strong align="center" style="font-size: 3rem;">Hi 👋 I'm Trevor Anderson</strong>
+  <h1 style="font-size: 2rem;">Founder of <a href="https://github.com/Nerdware-LLC" >Nerdware</a></h3>
 </div>
 
----
+<!-- BADGES -->
 
 ## My Badges
 
 <a href="https://www.credly.com/badges/8e6817b5-5061-48cc-b9d3-b46f7dfe2bfb/public_url">
 <img src="./assets/hashicorp-certified-terraform-associate.png" style="height: 200px;" />
 </a>
+
+<!-- SHIELDS -->
 
 ## Tech Experience
 
