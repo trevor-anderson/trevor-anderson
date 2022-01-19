@@ -1,41 +1,40 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/trevor-anderson/nerdware-template-repo">
-    <img src="https://github.com/trevor-anderson/CIS-Hardening/blob/main/images/cyber_sec.png" alt="Logo" height="120" width="120">
-  </a>
+<!-- PROJECT HEADER -->
 
-  <h1 align="center" style="font-size: 50px;">Nerdware Template Repository</h3>
-</p>
+<div align="center" style="max-width: 100%; padding: 0 5rem; display: flex; flex-direction: column;">
+  <h1 align="center" style="margin: 1rem 0 1.5rem 0; padding: 0;">Hi 👋 I'm Trevor Anderson</h1>
 
-<!-- PROJECT SHIELDS (space them apart with '&nbsp;' works well) -->
-<div align="center" style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: space-evenly; padding-top: 10px;">
+<!-- PROJECT SHIELDS GO HERE -->
+
+  <div style="max-width: 100%; margin-bottom: -1rem; display: flex; flex-direction: row; justify-content: center;">
+
+[![pre-commit][pre-commit-shield]](https://github.com/pre-commit/pre-commit)
+
+  <div style="width: 2rem; "></div>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+  <!-- FLEX BOX HAS ISSUES IN GH MARKDOWN, SO SPACE SHIELDS WITH EMPTY DIVS. EXAMPLE:
+  <div style="width: 2rem; "></div>
+  -->
+
+  </div>
 </div>
 
-<!-- PROJECT TAGLINE -->
-<p align="center">
-  <strong>An awesome template to jumpstart projects!</strong>
-</p>
+---
 
-## 🗺 Project Layout
+## My Badges
 
-- [`.github`](/.github) GitHub related files.
-
-## License
-
-All scripts and source code contained herein are for commercial use only by Nerdware, LLC.
-
-See [LICENSE](/LICENSE) for more information.
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8e6817b5-5061-48cc-b9d3-b46f7dfe2bfb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## Contact
 
 Trevor Anderson - [@TeeRevTweets](https://twitter.com/teerevtweets) - T.AndersonProperty@gmail.com
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+[pre-commit-shield]: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/trevor-anderson-3a3b0392/
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white
