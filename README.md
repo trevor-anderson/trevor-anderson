@@ -1,16 +1,8 @@
 <!-- PROJECT HEADER -->
 
 <div align="center" style="max-width: 100%; margin: 1rem 0 -1.25rem 0; padding: 0; display: flex; flex-direction: column;">
-  <h1 align="center" style="margin: 0 0 -3rem 0; padding: 0; border-bottom: none;">Hi 👋 I'm Trevor Anderson</h1>
-  <h3 style="margin: -3rem 0 2rem 0; padding: 0;">Founder of <a href="https://github.com/Nerdware-LLC" >Nerdware</a></h3>
-
-<!-- PROJECT SHIELDS GO HERE -->
-
-  <div style="max-width: 50%; width: 50%; align-self: center; padding: 0 0rem; display: flex; flex-direction: row; align-content: center; align-items: center;">
-
-[![pre-commit][pre-commit-shield]](https://github.com/pre-commit/pre-commit) [![LinkedIn][linkedin-shield]][linkedin-url]
-
-  </div>
+  <h1 align="center" style="margin: 0; padding: 0;">Hi 👋 I'm Trevor Anderson</h1>
+  <h3 style="margin: 0 0 2rem 0; padding: 0;">Founder of <a href="https://github.com/Nerdware-LLC" >Nerdware</a></h3>
 </div>
 
 ---
@@ -52,6 +44,8 @@
 <div style="max-width: 100%; width: 100%; display: flex; flex-direction: row; flex-wrap: wrap; align-content: center; align-items: center;">
 
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+[![pre-commit][pre-commit-shield]](https://github.com/pre-commit/pre-commit)
 
 </div>
 
