@@ -2,21 +2,17 @@
 
 <div align="center" style="max-width: 100%; margin: 1rem 0 -1.25rem 0; padding: 0; display: flex; flex-direction: column;">
   <h1 align="center" style="margin: 0; padding: 0; border-bottom: none;">Hi 👋 I'm Trevor Anderson</h1>
-  <strong style="margin: 1rem 0 1.25rem 0;">Founder of <a href="https://github.com/Nerdware-LLC" >Nerdware</a></strong>
+  <strong style="font-size: 1.25rem; margin: 1rem 0 1.25rem 0;">Founder of <a href="https://github.com/Nerdware-LLC" >Nerdware</a></strong>
 
 <!-- PROJECT SHIELDS GO HERE -->
 
-  <div style="max-width: 100%; width: 100%; display: flex; flex-direction: row; justify-content: center;">
+  <div style="max-width: 100%; width: 100%; padding: 0 10rem; display: flex; flex-direction: row; justify-content: center; justify-items: space-around; align-content: center; align-items: center; background-color: red; ">
 
 [![pre-commit][pre-commit-shield]](https://github.com/pre-commit/pre-commit)
 
-  <div style="width: 2rem;"></div>
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-  <!-- FLEX BOX HAS ISSUES IN GH MARKDOWN, SO SPACE SHIELDS WITH EMPTY DIVS. EXAMPLE:
-  <div style="width: 2rem; "></div>
-  -->
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
   </div>
 </div>
