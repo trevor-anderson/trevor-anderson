@@ -1,9 +1,8 @@
 <!-- HEADER -->
 
-<div align="center" style="max-width: 100%; display: flex; flex-direction: column;">
-  <h2 align="center" style="font-size: 3rem;">Hi 👋 I'm Trevor Anderson</h2>
-  <h3 style="font-size: 2rem;">Founder of <a href="https://github.com/Nerdware-LLC" >Nerdware</a></h3>
-</div>
+<a href="https://github.com/Nerdware-LLC" >
+  <img src="./assets/profile_header.png" />
+</a>
 
 <!-- BADGES -->
 
