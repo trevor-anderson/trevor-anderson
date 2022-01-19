@@ -1,15 +1,16 @@
 <!-- PROJECT HEADER -->
 
-<div align="center" style="max-width: 100%; padding: 0 5rem; display: flex; flex-direction: column;">
-  <h1 align="center" style="margin: 1rem 0 1.5rem 0; padding: 0;">Hi 👋 I'm Trevor Anderson</h1>
+<div align="center" style="max-width: 100%; margin: 1rem 0 -1.25rem 0; padding: 0; display: flex; flex-direction: column;">
+  <h1 align="center" style="margin: 0; padding: 0; border-bottom: none;">Hi 👋 I'm Trevor Anderson</h1>
+  <strong style="margin: 1rem 0 1.25rem 0;">Founder of <a href="https://github.com/Nerdware-LLC" >Nerdware</a></strong>
 
 <!-- PROJECT SHIELDS GO HERE -->
 
-  <div style="max-width: 100%; margin-bottom: -1rem; display: flex; flex-direction: row; justify-content: center;">
+  <div style="max-width: 100%; width: 100%; display: flex; flex-direction: row; justify-content: center;">
 
 [![pre-commit][pre-commit-shield]](https://github.com/pre-commit/pre-commit)
 
-  <div style="width: 2rem; "></div>
+  <div style="width: 2rem;"></div>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -25,7 +26,7 @@
 ## My Badges
 
 <a href="https://www.credly.com/badges/8e6817b5-5061-48cc-b9d3-b46f7dfe2bfb/public_url">
-<img src="./assets/hashicorp-certified-terraform-associate.png" style="height: 100px; width: 100px;" />
+<img src="./assets/hashicorp-certified-terraform-associate.png" style="height: 200px;" />
 </a>
 
 ## Contact
