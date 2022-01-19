@@ -24,7 +24,9 @@
 
 ## My Badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8e6817b5-5061-48cc-b9d3-b46f7dfe2bfb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/8e6817b5-5061-48cc-b9d3-b46f7dfe2bfb/public_url">
+<img src="./assets/hashicorp-certified-terraform-associate.png" style="height: 100px; width: 100px;" />
+</a>
 
 ## Contact
 
