@@ -54,8 +54,7 @@
 <div style="max-width: 100%; width: 100%; display: flex; flex-direction: row; flex-wrap: wrap; align-content: center; align-items: center;">
 
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-[![pre-commit][pre-commit-shield]](https://github.com/pre-commit/pre-commit)
+![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -104,6 +103,5 @@ Trevor Anderson - [@TeeRevTweets](https://twitter.com/teerevtweets) - T.Anderson
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[pre-commit-shield]: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/trevor-anderson-3a3b0392/
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white
