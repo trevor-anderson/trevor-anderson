@@ -1,11 +1,6 @@
 <!-- HEADER -->
 
-<div align="center">
-<h3>Hi 👋 I'm Trevor Anderson</h3>
-<b>
-Founder of <a href="https://github.com/Nerdware-LLC"><span>Nerdware</span></a>
-</b>
-</div>
+<img src="./assets/profile_header.png" href="https://github.com/Nerdware-LLC" align="center" />
 
 <!-- BADGES -->
 
