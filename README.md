@@ -1,8 +1,12 @@
 <!-- HEADER -->
 
 <div align="center" style="max-width: 100%; width: 100%; font-weight: bold;">
-  <span style="font-size: 30px;">Hi 👋 I'm Trevor Anderson</span></br>
-  <span style="font-size: 20px;">Founder of <a href="https://github.com/Nerdware-LLC"><span>Nerdware</span></a></span>
+<span style="font-size: 25px;">
+
+### Hi 👋 I'm Trevor Anderson
+
+</span>
+<span style="font-size: 20px;">Founder of <a href="https://github.com/Nerdware-LLC"><span>Nerdware</span></a></span>
 </div>
 
 <!-- BADGES -->
