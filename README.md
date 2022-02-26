@@ -2,9 +2,7 @@
 
 <div align="center" style="max-width: 100%; width: 100%;">
 <span style="font-size: 30px;">
-
-### Hi 👋 I'm Trevor Anderson
-
+<h3>Hi 👋 I'm Trevor Anderson</h3>
 </span>
 <span style="font-size: 20px; font-weight: bold;">
 Founder of <a href="https://github.com/Nerdware-LLC"><span>Nerdware</span></a>
