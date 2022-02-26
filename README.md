@@ -1,12 +1,14 @@
 <!-- HEADER -->
 
-<div align="center" style="max-width: 100%; width: 100%; display: flex; flex-direction: column; justify-content: center; align-content: center; justify-items: center; align-items: center; font-weight: bold;">
+<div align="center" style="max-width: 100%; width: 100%;">
 <span style="font-size: 30px;">
 
 ### Hi 👋 I'm Trevor Anderson
 
 </span>
-<span style="font-size: 20px;">Founder of <a href="https://github.com/Nerdware-LLC"><span>Nerdware</span></a></span>
+<span style="font-size: 20px; font-weight: bold;">
+Founder of <a href="https://github.com/Nerdware-LLC"><span>Nerdware</span></a>
+</span>
 </div>
 
 <!-- BADGES -->
