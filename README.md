@@ -1,8 +1,8 @@
 <!-- HEADER -->
 
-<div align="center" style="max-width: 100%; width: 100%; display: flex; flex-direction: column; flex-wrap: wrap; align-content: center; align-items: center;">
-  <span style="font-size: 2em;">Hi 👋 I'm Trevor Anderson</span>
-  <span style="font-size: 1.5em;">Founder of <a href="https://github.com/Nerdware-LLC"><span>Nerdware</span></a> </span>
+<div align="center" style="max-width: 100%; width: 100%;">
+  <p style="font-size: 2em;">Hi 👋 I'm Trevor Anderson</p></br>
+  <p style="font-size: 1.5em;">Founder of <a href="https://github.com/Nerdware-LLC"><span>Nerdware</span></a></p>
 </div>
 
 <!-- BADGES -->
