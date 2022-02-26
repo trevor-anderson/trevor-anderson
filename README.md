@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <div align="center" style="max-width: 100%; width: 100%;">
-<span style="font-size: 50px;">Hi 👋 I'm Trevor Anderson</span>
+<p style="font-size: 40px;">Hi 👋 I'm Trevor Anderson</p>
 <span style="font-size: 20px; font-weight: bold;">
 Founder of <a href="https://github.com/Nerdware-LLC"><span>Nerdware</span></a>
 </span>
