@@ -1,6 +1,8 @@
 <!-- HEADER -->
 
-<a href="https://github.com/Nerdware-LLC"><img src="./assets/profile_header.png" /></a>
+<a href="https://github.com/Nerdware-LLC" target="_blank" rel="noopener noreferrer">
+<img src="./assets/profile_header.png" />
+</a>
 
 <!-- BADGES -->
 
