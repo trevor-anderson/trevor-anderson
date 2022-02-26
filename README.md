@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
-<div align="center" style="max-width: 100%; width: 100%; font-weight: bold;">
-<span style="font-size: 25px;">
+<div align="center" style="max-width: 100%; width: 100%; display: flex; flex-direction: column; justify-content: center; align-content: center; justify-items: center; align-items: center; font-weight: bold;">
+<span style="font-size: 30px;">
 
 ### Hi 👋 I'm Trevor Anderson
 
