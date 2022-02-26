@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <a href="https://github.com/Nerdware-LLC" target="_blank" rel="noopener noreferrer">
-<img src="./assets/profile_header.png" />
+<img src="./assets/profile_header.png" alt="Trevor Anderson's GitHub profile header" />
 </a>
 
 <!-- BADGES -->
