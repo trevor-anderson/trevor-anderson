@@ -1,16 +1,25 @@
 <!-- HEADER -->
 
-<a href="https://github.com/Nerdware-LLC" >
-  <img src="./assets/profile_header.png" />
-</a>
+<div align="center" style="max-width: 100%; width: 100%; display: flex; flex-direction: column; flex-wrap: wrap; align-content: center; align-items: center;">
+  <span style="font-size: 2em;">Hi 👋 I'm Trevor Anderson</span>
+  <span style="font-size: 1.5em;">Founder of <a href="https://github.com/Nerdware-LLC"><span>Nerdware</span></a> </span>
+</div>
 
 <!-- BADGES -->
 
 ## My Badges
 
+<div style="max-width: 100%; width: 100%; display: flex; flex-direction: row; flex-wrap: wrap; align-content: center; align-items: center;">
+
 <a href="https://www.credly.com/badges/8e6817b5-5061-48cc-b9d3-b46f7dfe2bfb/public_url">
 <img src="./assets/hashicorp-certified-terraform-associate.png" style="height: 200px;" />
 </a>
+
+<a href="https://www.credly.com/badges/faed17aa-10c6-4f46-bd69-3d01bef8420d/public_url">
+<img src="./assets/aws-certified-solutions-architect-associate.png" style="height: 200px;" />
+</a>
+
+</div>
 
 <!-- SHIELDS -->
 
