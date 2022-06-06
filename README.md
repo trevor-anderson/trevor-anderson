@@ -46,14 +46,6 @@ I'm Trevor Anderson, cloud engineer and Founder of [**Nerdware**](https://github
 
 </div>
 
-<!-- Whitespace:
-
-  1   &nbsp;
-  2   &ensp;
-  4   &emsp;
-
- -->
-
 ---
 
 ### 🔧 Tech & Tools
