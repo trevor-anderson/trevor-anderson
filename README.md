@@ -79,6 +79,7 @@ I'm Trevor Anderson, cloud engineer and Founder of [**Nerdware**](https://github
 ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C.svg?style=for-the-badge&logo=dependabot&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github_Actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/pre--commit-GRAY.svg?style=for-the-badge&logo=pre-commit&logoColor=F8B424&color=gray)
+![semantic-release](https://img.shields.io/badge/semantic--release-E10079.svg?style=for-the-badge&logo=semantic-release)
 
 #### Languages
 
