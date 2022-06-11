@@ -105,6 +105,7 @@ I'm Trevor Anderson, cloud engineer and Founder of [**Nerdware**](https://github
 ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-4F9640.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/Prisma-3982CE.svg?style=for-the-badge&logo=Prisma&logoColor=white&color=0C3249)
+![Sentry](https://img.shields.io/badge/Sentry-331B3B.svg?style=for-the-badge&logo=Sentry&logoColor=white)
 
 #### Front End
 
