@@ -17,7 +17,7 @@
     <img src="assets/Twitter_icon_circle.svg" height="40" />
   </a>
   &nbsp;
-  <a href="mailto:T.AndersonProperty@gmail.com">
+  <a href="mailto:trevor@nerdware.cloud">
     <img src="assets/email_icon_circle.svg" height="40" />
   </a>
 </div>
@@ -128,7 +128,7 @@ I'm Trevor Anderson, cloud engineer and Founder of [**Nerdware**](https://github
 
 ### 💬 Contact
 
-Trevor Anderson - [@TeeRevTweets](https://twitter.com/teerevtweets) - [T.AndersonProperty@gmail.com](mailto:T.AndersonProperty@gmail.com)
+Trevor Anderson - [@TeeRevTweets](https://twitter.com/teerevtweets) - [trevor@nerdware.cloud](mailto:trevor@nerdware.cloud)
 
   <a href="https://www.youtube.com/channel/UCguSCK_j1obMVXvv-DUS3ng">
     <img src="assets/YouTube_icon_circle.svg" height="40" />
@@ -142,7 +142,7 @@ Trevor Anderson - [@TeeRevTweets](https://twitter.com/teerevtweets) - [T.Anderso
     <img src="assets/Twitter_icon_circle.svg" height="40" />
   </a>
   &nbsp;
-  <a href="mailto:T.AndersonProperty@gmail.com">
+  <a href="mailto:trevor@nerdware.cloud">
     <img src="assets/email_icon_circle.svg" height="40" />
   </a>
   <br><br>
