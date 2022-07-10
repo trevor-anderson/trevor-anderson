@@ -120,6 +120,8 @@ I'm Trevor Anderson, cloud engineer and Founder of [**Nerdware**](https://github
 ![Expo](https://img.shields.io/badge/Expo-1C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/React_Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+<br>
+
 ### 📚 What I'm Currently Learning
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-2F67D9.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
