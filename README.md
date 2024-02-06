@@ -6,7 +6,7 @@
 
 <div align="right">
 
-[<img src="assets/YouTube_icon_circle.svg" height="40" alt="Check out Nerdware on YouTube" />](https://www.youtube.com/channel/@nerdware-io)
+[<img src="assets/YouTube_icon_circle.svg" height="40" alt="Check out Nerdware on YouTube" />](https://www.youtube.com/@nerdware-io)
 &nbsp;
 [<img src="assets/LinkedIn_icon_circle.svg" height="40" alt="Trevor Anderson's LinkedIn" />](https://www.linkedin.com/in/meet-trevor-anderson/)
 &nbsp;
@@ -22,7 +22,7 @@ Hi there 👋,
 
 I'm Trevor Anderson, cloud engineer and Founder of [**Nerdware**](https://github.com/Nerdware-LLC). Awesome applications in the modern world demand secure cloud infrastructure that drives both performance and scale - without wrecking your wallet. This is my passion - designing and building cloud architecture that helps people get things done.
 
-> Check out my new [**YouTube Channel**](https://www.youtube.com/channel/UCguSCK_j1obMVXvv-DUS3ng) for helpful cloud-related How-To guides. Upcoming videos will cover how to **_code your cloud_** with Terraform, Terragrunt, Packer, Golang, CI/CD tools, and more.
+> Check out my [**YouTube Channel**](https://www.youtube.com/@nerdware-io) for helpful cloud-related How-To guides. Upcoming videos will cover how to **_code your cloud_** with Terraform, Terragrunt, Packer, Golang, CI/CD tools, and more.
 
 ---
 
@@ -125,7 +125,7 @@ I'm Trevor Anderson, cloud engineer and Founder of [**Nerdware**](https://github
 
 Trevor Anderson — [Trevor@Nerdware.cloud](mailto:trevor@nerdware.cloud) — [@TeeRevTweets](https://twitter.com/teerevtweets)
 
-[<img src="https://github.com/trevor-anderson/trevor-anderson/blob/main/assets/YouTube_icon_circle.svg" height="40" alt="Check out Nerdware on YouTube" />](https://www.youtube.com/channel/@nerdware-io)
+[<img src="https://github.com/trevor-anderson/trevor-anderson/blob/main/assets/YouTube_icon_circle.svg" height="40" alt="Check out Nerdware on YouTube" />](https://www.youtube.com/@nerdware-io)
 &emsp;
 [<img src="https://github.com/trevor-anderson/trevor-anderson/blob/main/assets/LinkedIn_icon_circle.svg" height="40" alt="Trevor Anderson's LinkedIn" />](https://www.linkedin.com/in/meet-trevor-anderson/)
 &emsp;
