@@ -1,25 +1,19 @@
 <!-- HEADER -->
 
-[![GitHub Profile Banner](./assets/github_profile_banner.png)](https://github.com/Nerdware-LLC)
+[![GitHub Profile Banner](assets/github_profile_banner.png)](https://github.com/Nerdware-LLC)
 
 <!-- SOCIAL MEDIA BUTTONS -->
 
 <div align="right">
-  <a href="https://www.youtube.com/channel/UCguSCK_j1obMVXvv-DUS3ng">
-    <img src="assets/YouTube_icon_circle.svg" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/trevor-anderson-3a3b0392/">
-    <img src="assets/LinkedIn_icon_circle.svg" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/TeeRevTweets">
-    <img src="assets/Twitter_icon_circle.svg" height="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:trevor@nerdware.cloud">
-    <img src="assets/email_icon_circle.svg" height="40" />
-  </a>
+
+[<img src="assets/YouTube_icon_circle.svg" height="40" alt="Check out Nerdware on YouTube" />](https://www.youtube.com/channel/@nerdware-io)
+&nbsp;
+[<img src="assets/LinkedIn_icon_circle.svg" height="40" alt="Trevor Anderson's LinkedIn" />](https://www.linkedin.com/in/meet-trevor-anderson/)
+&nbsp;
+[<img src="assets/Twitter_icon_circle.svg" height="40" alt="Trevor Anderson's Twitter" />](https://twitter.com/TeeRevTweets)
+&nbsp;
+[<img src="assets/email_icon_circle.svg" height="40" alt="Email Trevor Anderson" />](mailto:trevor@nerdware.cloud)
+
 </div>
 
 <!-- INTRO -->
@@ -36,13 +30,8 @@ I'm Trevor Anderson, cloud engineer and Founder of [**Nerdware**](https://github
 
 <div style="display:flex; flex-direction:row;">
 
-  <a href="https://www.credly.com/badges/8e6817b5-5061-48cc-b9d3-b46f7dfe2bfb/public_url">
-    <img src="badges/hashicorp-certified-terraform-associate.png" height="180" />
-  </a>
-
-  <a href="https://www.credly.com/badges/faed17aa-10c6-4f46-bd69-3d01bef8420d/public_url">
-    <img src="badges/aws-certified-solutions-architect-associate.png" height="180" />
-  </a>
+[<img src="badges/hashicorp-certified-terraform-associate.png" height="180" />](https://www.credly.com/badges/8e6817b5-5061-48cc-b9d3-b46f7dfe2bfb/public_url)
+[<img src="badges/aws-certified-solutions-architect-associate.png" height="180" />](https://www.credly.com/badges/faed17aa-10c6-4f46-bd69-3d01bef8420d/public_url)
 
 </div>
 
@@ -134,25 +123,16 @@ I'm Trevor Anderson, cloud engineer and Founder of [**Nerdware**](https://github
 
 ### 💬 Contact
 
-Trevor Anderson - [@TeeRevTweets](https://twitter.com/teerevtweets) - [Trevor@Nerdware.cloud](mailto:Trevor@Nerdware.cloud)
+Trevor Anderson — [Trevor@Nerdware.cloud](mailto:trevor@nerdware.cloud) — [@TeeRevTweets](https://twitter.com/teerevtweets)
 
-  <a href="https://www.youtube.com/channel/UCguSCK_j1obMVXvv-DUS3ng">
-    <img src="assets/YouTube_icon_circle.svg" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/trevor-anderson-3a3b0392/">
-    <img src="assets/LinkedIn_icon_circle.svg" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/TeeRevTweets">
-    <img src="assets/Twitter_icon_circle.svg" height="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:trevor@nerdware.cloud">
-    <img src="assets/email_icon_circle.svg" height="40" />
-  </a>
-  <br><br>
+[<img src="https://github.com/trevor-anderson/trevor-anderson/blob/main/assets/YouTube_icon_circle.svg" height="40" alt="Check out Nerdware on YouTube" />](https://www.youtube.com/channel/@nerdware-io)
+&emsp;
+[<img src="https://github.com/trevor-anderson/trevor-anderson/blob/main/assets/LinkedIn_icon_circle.svg" height="40" alt="Trevor Anderson's LinkedIn" />](https://www.linkedin.com/in/meet-trevor-anderson/)
+&emsp;
+[<img src="https://github.com/trevor-anderson/trevor-anderson/blob/main/assets/Twitter_icon_circle.svg" height="40" alt="Trevor Anderson's Twitter" />](https://twitter.com/TeeRevTweets)
+&emsp;
+[<img src="https://github.com/trevor-anderson/trevor-anderson/blob/main/assets/email_icon_circle.svg" height="40" alt="Email Trevor Anderson" />](mailto:trevor@nerdware.cloud)
 
-[**_Dare Mighty Things._**](https://daremightythings.co/)
+[**_Dare Mighty Things._**](https://www.youtube.com/watch?v=GO5FwsblpT8)
 
 </div>
