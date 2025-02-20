@@ -7,7 +7,7 @@
 <div align="right">
 
 [<img src="assets/github_logo_white.svg" height="40" alt="Check out Nerdware on GitHub" />](https://github.com/Nerdware-LLC)
-&emsp;
+&nbsp;
 [<img src="assets/YouTube_icon_circle.svg" height="40" alt="Check out Nerdware on YouTube" />](https://www.youtube.com/@nerdware-io)
 &nbsp;
 [<img src="assets/LinkedIn_icon_circle.svg" height="40" alt="Trevor Anderson's LinkedIn" />](https://www.linkedin.com/in/meet-trevor-anderson/)
